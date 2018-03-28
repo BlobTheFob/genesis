@@ -7,7 +7,7 @@
       "watch"            : ["genesis.json"],
       "log_date_format"  : "YYYY-MM-DD HH:mm Z",
       "env": {
-      	"TOKEN": "🎀 Loli~Bear 🎀",
+      	"TOKEN": "MzcxNDQ2MDQyMTIzNjk4MTc3.DM9o9Q.N8ha8KC7DOiUnQcgAr1VwW3M8Wc",
         "RAVEN_URL": "<raven logging URL>",
         "PREFIX": "++",
         "MD_LINE_END":"\n",
