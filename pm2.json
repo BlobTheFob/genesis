@@ -7,7 +7,7 @@
       "watch"            : ["genesis.json"],
       "log_date_format"  : "YYYY-MM-DD HH:mm Z",
       "env": {
-      	"TOKEN": "<discord bot token>",
+      	"TOKEN": "🎀 Loli~Bear 🎀",
         "RAVEN_URL": "<raven logging URL>",
         "PREFIX": "++",
         "MD_LINE_END":"\n",
@@ -37,7 +37,7 @@
         "MYSQL_DB":"genesis",
         "LOG_LEVEL": "ERROR",
         "WORLDSTATE_TIMEOUT": 60000,
-        "INVITE_URL" : "https://github.com/Warframe-Community-Developers/genesis"
+        "INVITE_URL" : "..."
       }
     }
   ]
